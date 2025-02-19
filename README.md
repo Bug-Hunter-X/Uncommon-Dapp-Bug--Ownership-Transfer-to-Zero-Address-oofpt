@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon bug in Dapps involving the transfer of ownership. The bug allows attackers to transfer ownership of a contract to the zero address, rendering the contract unusable. The solution demonstrates how to mitigate this issue by adding input validation.
